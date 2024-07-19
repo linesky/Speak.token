@@ -16,5 +16,6 @@ def main():
     engine.say(input_text)
     engine.runAndWait()
 
+print("\x1bc\x1b[47;34m")
 if __name__ == "__main__":
     main()
